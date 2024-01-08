@@ -1,0 +1,77 @@
+body{ 
+    background-color: hsl(217, 54%, 11%);
+}
+h2{
+    color: white;
+}
+p{ font-size: 18px;
+    color: hsl(215, 51%, 70%);
+}
+img{
+    justify-content: center;
+    height: 250px;
+    border-radius: 5px;
+}
+#card{
+    justify-content: center;
+    height: 500px;
+  width: 250px;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 20%;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: hsl(216, 50%, 16%);
+    margin-bottom: 10%;
+    box-shadow: 0 0 60px black;
+    padding: 20px;
+}
+#account{
+  
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid hsl(215, 51%, 70%);
+
+}
+#icon{
+    height: 20px;
+    padding-right: 5px;
+}
+#clock{
+    height: 15px;
+    padding-right: 5px;}
+
+h5{
+    color: hsl(178, 100%, 50%);
+
+}
+
+
+
+#amount{ 
+ 
+display: flex;
+
+
+}
+#days{
+
+    display: flex;
+}
+#profile{
+height: 20px;
+padding-top: 10px;
+padding-right: 10px;
+border: 1px solid white;
+padding: 1px;
+border-radius: 50%;
+
+}
+#user{
+    display: flex;
+    
+}
+.name{
+    padding-left: 5px;
+    padding-top: -1px;
+}
